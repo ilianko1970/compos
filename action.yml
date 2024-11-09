@@ -34,3 +34,4 @@ runs:
         ls -la
         chmod +x goodbye.sh
         ./goodbye.sh
+      shell: bash
